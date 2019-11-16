@@ -6,7 +6,7 @@ import qa.Pages.ItemPage;
 import qa.Pages.MainPage;
 import qa.Pages.CategoryPage;
 
-public class CartAddTest extends TestBase {
+public class AddItemsToCartTest extends TestBase {
 
   @Test
   public void cartAddTest() throws Exception {
